@@ -1,0 +1,5 @@
+graphql-core
+strawberry-graphql
+aiohttp
+gql
+requests
